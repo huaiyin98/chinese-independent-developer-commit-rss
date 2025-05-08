@@ -1,0 +1,107 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Commits from 1c7/chinese-independent-developer with Diffs</title><link>https://github.com/1c7/chinese-independent-developer</link><description>GitHub commit history with file-level diffs</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><lastBuildDate>Thu, 08 May 2025 03:23:01 +0000</lastBuildDate><item><title>Merge pull request #503 from ysykzheng/patch-1
+
+add TextReadTTS.com</title><link>https://github.com/1c7/chinese-independent-developer/commit/82d3d2b315ea6a900f3d906655ec961f1deff106</link><description>&lt;b&gt;README-Programmer-Edition.md&lt;/b&gt;&lt;br&gt;&lt;pre&gt;@@ -14,6 +14,10 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不
+ 
+ 程序员版开始于 2019 年 4 月 11 号, 主版面开始于 2018 年 3 月
+ 
++### 2025 年 4 月 30 号添加
++#### ysykzheng - [github](https://github.com/ysykzheng)
++* :white_check_mark: [TextReadTTS.com](https://textreadtts.com/)：TextReadTTS.com-免费文本转语音接口（free tts api），有一定限制。
++
+ ### 2025 年 4 月 29 号添加
+ #### IndieMakerKevin(成都) - [Twitter](https://x.com/PennyJoly)
+ * :white_check_mark: [NuxtPro](https://nuxtpro.com)：基于Nuxt3的企业级SaaS出海模板，预集成Stripe/Cream支付、谷歌登录、多语言路由和SEO工具。快速构建SSR的全球化Web应用，开箱即用.&lt;/pre&gt;</description></item><item><title>Update README-Programmer-Edition.md</title><link>https://github.com/1c7/chinese-independent-developer/commit/0e170598e758159f24504f839e50836de4f7cd4e</link><description>&lt;b&gt;README-Programmer-Edition.md&lt;/b&gt;&lt;br&gt;&lt;pre&gt;@@ -16,7 +16,7 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不
+ 
+ ### 2025 年 4 月 30 号添加
+ #### ysykzheng - [github](https://github.com/ysykzheng)
+-* :white_check_mark: [TextReadTTS.com](https://textreadtts.com/)：TextReadTTS.com-免费文本转语音接口（free tts api），有一定限制。
++* :white_check_mark: [TextReadTTS.com](https://textreadtts.com/)：免费文本转语音接口（Free TTS API），免费额度有限
+ 
+ ### 2025 年 4 月 29 号添加
+ #### IndieMakerKevin(成都) - [Twitter](https://x.com/PennyJoly)&lt;/pre&gt;</description></item><item><title>docs: 添加 Sundry - WinGet 本地清单管理工具，让您更方便地查看、移除清单</title><link>https://github.com/1c7/chinese-independent-developer/commit/47d8fea6b09aa6efccfea396e6f0d30e36f41888</link><description>&lt;b&gt;README-Programmer-Edition.md&lt;/b&gt;&lt;br&gt;&lt;pre&gt;@@ -18,6 +18,9 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不
+ #### ysykzheng - [github](https://github.com/ysykzheng)
+ * :white_check_mark: [TextReadTTS.com](https://textreadtts.com/)：免费文本转语音接口（Free TTS API），免费额度有限
+ 
++#### 鸭鸭「カモ」(厦门) - [GitHub](https://github.com/DuckDuckStudio), [个人网页](https://duckduckstudio.github.io/yazicbs.github.io/), [X(Twitter)](https://twitter.com/JinchengFang)
++* :white_check_mark: [Sundry](https://github.com/DuckDuckStudio/Sundry)：WinGet 本地清单管理工具，让您更方便地查看、移除清单。
++
+ ### 2025 年 4 月 29 号添加
+ #### IndieMakerKevin(成都) - [Twitter](https://x.com/PennyJoly)
+ * :white_check_mark: [NuxtPro](https://nuxtpro.com)：基于Nuxt3的企业级SaaS出海模板，预集成Stripe/Cream支付、谷歌登录、多语言路由和SEO工具。快速构建SSR的全球化Web应用，开箱即用.&lt;/pre&gt;</description></item><item><title>Merge pull request #504 from DuckDuckStudio/master
+
+docs: 添加 Sundry - WinGet 本地清单管理工具，让您更方便地查看、移除清单</title><link>https://github.com/1c7/chinese-independent-developer/commit/1218405c958c6ac14d44a62a4d6583434088d3cc</link><description>&lt;b&gt;README-Programmer-Edition.md&lt;/b&gt;&lt;br&gt;&lt;pre&gt;@@ -18,6 +18,9 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不
+ #### ysykzheng - [github](https://github.com/ysykzheng)
+ * :white_check_mark: [TextReadTTS.com](https://textreadtts.com/)：免费文本转语音接口（Free TTS API），免费额度有限
+ 
++#### 鸭鸭「カモ」(厦门) - [GitHub](https://github.com/DuckDuckStudio), [个人网页](https://duckduckstudio.github.io/yazicbs.github.io/), [X(Twitter)](https://twitter.com/JinchengFang)
++* :white_check_mark: [Sundry](https://github.com/DuckDuckStudio/Sundry)：WinGet 本地清单管理工具，让您更方便地查看、移除清单。
++
+ ### 2025 年 4 月 29 号添加
+ #### IndieMakerKevin(成都) - [Twitter](https://x.com/PennyJoly)
+ * :white_check_mark: [NuxtPro](https://nuxtpro.com)：基于Nuxt3的企业级SaaS出海模板，预集成Stripe/Cream支付、谷歌登录、多语言路由和SEO工具。快速构建SSR的全球化Web应用，开箱即用.&lt;/pre&gt;</description></item><item><title>Update README.md</title><link>https://github.com/1c7/chinese-independent-developer/commit/4408f1f89563025e8e012dfbbb32d1ba27030398</link><description>&lt;b&gt;README.md&lt;/b&gt;&lt;br&gt;&lt;pre&gt;@@ -20,6 +20,11 @@
+ 
+ ## 3. 项目列表
+ 
++### 2025 年 5 月 2 号添加
++#### Allen(深圳) 
++* :white_check_mark: [Clone UI](https://cloneui.org)：Web 网页克隆工具，只需上传网站截图、UI 设计图或网站链接就能还原 80% 前端代码设计
++* :white_check_mark: [Style Ai](https://styleai.art)：免费 GPT-4o 绘画工具，轻松将图片转成吉卜力、史努比、3D盲盒等功能
++
+ ### 2025 年 4 月 29 号添加
+ #### dodid - [Github](https://github.com/dodid) 
+ * :white_check_mark: [CFA Essentials](https://apps.apple.com/us/app/cfa-essentials-l1-3-exam-prep/id6745157137)：高效复习 CFA 考试的手机 App，可以随时随地学习的笔记内容&lt;/pre&gt;</description></item><item><title>Update README-Game.md</title><link>https://github.com/1c7/chinese-independent-developer/commit/51bc62a2e3072fe77c7688ee9f43baf06420cb3d</link><description>&lt;b&gt;README-Game.md&lt;/b&gt;&lt;br&gt;&lt;pre&gt;@@ -2,6 +2,10 @@
+ 
+ 本版面存放的产品都是游戏，本列表起始于2025年1月4号
+ 
++### 2025 年 5 月 4 号添加
++#### wang1309(深圳) - [github](https://github.com/wang1309)
++* :white_check_mark: [Funny Shooter 2](https://www.funny-shooter2.org/)：enjoy unblocked shooting games for free! Dive into exciting gun games with funny shooting action. Perfect for shooter game fans!
++
+ ### 2025 年 4 月 21 号添加
+ #### LudwigChan - [github](https://github.com/ludwig-chan)
+ * :clock8: [sunrise](https://ludwig-chan.github.io/sunrise/): 集养成、经营、回合制、肉鸽、策略于一体的，以饥荒、星铁、牧场物语为原型的一个极简风格的 mud 游戏&lt;/pre&gt;</description></item><item><title>Update README.md
+
+Remove a broken link.</title><link>https://github.com/1c7/chinese-independent-developer/commit/15dc77f0b87a5e3cec7bc4e6f767aebb4aa826d2</link><description>&lt;b&gt;README.md&lt;/b&gt;&lt;br&gt;&lt;pre&gt;@@ -3984,7 +3984,6 @@ OldPanda [GitHub](https://github.com/OldPanda), [博客](https://old-panda.com/)
+ 推荐一些对独立开发者有帮助的网站：
+ 
+ [英文]
+-* [Productized Startups](https://productizedstartups.com/interviews/)
+ * [Indie Hacker](https://www.indiehackers.com/)
+ * [Failory](https://www.failory.com/) - 分享创业失败的故事
+ * [Starter Story](https://www.starterstory.com/) - 采访 e-commerce(电商) 的盈利故事，和 Indie hacker 很像，不过是专注于电商领域&lt;/pre&gt;</description></item><item><title>Merge pull request #505 from xfq/patch-1
+
+Update README.md</title><link>https://github.com/1c7/chinese-independent-developer/commit/c4cc6350551c01c2bdb7666eb61a643bac8f44f4</link><description>&lt;b&gt;README.md&lt;/b&gt;&lt;br&gt;&lt;pre&gt;@@ -3984,7 +3984,6 @@ OldPanda [GitHub](https://github.com/OldPanda), [博客](https://old-panda.com/)
+ 推荐一些对独立开发者有帮助的网站：
+ 
+ [英文]
+-* [Productized Startups](https://productizedstartups.com/interviews/)
+ * [Indie Hacker](https://www.indiehackers.com/)
+ * [Failory](https://www.failory.com/) - 分享创业失败的故事
+ * [Starter Story](https://www.starterstory.com/) - 采访 e-commerce(电商) 的盈利故事，和 Indie hacker 很像，不过是专注于电商领域&lt;/pre&gt;</description></item><item><title>Update README.md</title><link>https://github.com/1c7/chinese-independent-developer/commit/4fc776a72bdd7838af4cd6701975ba7abc989a3e</link><description>&lt;b&gt;README.md&lt;/b&gt;&lt;br&gt;&lt;pre&gt;@@ -20,6 +20,13 @@
+ 
+ ## 3. 项目列表
+ 
++### 2025 年 5 月 6 号添加
++#### yiquan00 - [GitHub](https://github.com/yiquan00)
++* :white_check_mark: [Notion style illustration](https://illustration.imglab.dev)：专注于 Notion 风格插画生成网站，一句话提示词就能生成 Notion 风格插画/Flat style illustration 
++
++#### Bobo Cao(合肥) - [Github](https://github.com/bo0-bo0), [博客](https://indiepa.ge/bo0bo0)
++* :white_check_mark: [Labubu Wallpaper](https://labubuwallpaper.com/)：下载 4K Labubu 壁纸，针对 iPhone, 笔记本和移动设备优化
++
+ ### 2025 年 5 月 2 号添加
+ #### Allen(深圳) 
+ * :white_check_mark: [Clone UI](https://cloneui.org)：Web 网页克隆工具，只需上传网站截图、UI 设计图或网站链接就能还原 80% 前端代码设计&lt;/pre&gt;</description></item><item><title>Update README.md</title><link>https://github.com/1c7/chinese-independent-developer/commit/63f2ce6e9bf9245b57d7a83f0e3856a127433c67</link><description>&lt;b&gt;README.md&lt;/b&gt;&lt;br&gt;&lt;pre&gt;@@ -20,6 +20,13 @@
+ 
+ ## 3. 项目列表
+ 
++### 2025 年 5 月 7 号添加
++#### jerrybi(深圳) - [Github](https://github.com/jerrybi)
++* :white_check_mark: [AI Doll Generator](https://ai-doll-generator.net)：使用 AI 技术将人像转成玩具盒子风格！
++
++#### Caron77 - [Github](https://github.com/Caron77ai)
++* :white_check_mark: [4oimg.org](https://4oimg.org)：基于 OpenAI 最新图像技术的创作平台，支持多风格生成和精确文本渲染的 AI 绘图工具
++
+ ### 2025 年 5 月 6 号添加
+ #### yiquan00 - [GitHub](https://github.com/yiquan00)
+ * :white_check_mark: [Notion style illustration](https://illustration.imglab.dev)：专注于 Notion 风格插画生成网站，一句话提示词就能生成 Notion 风格插画/Flat style illustration &lt;/pre&gt;</description></item></channel></rss>
