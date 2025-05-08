@@ -1,23 +1,27 @@
-name: Generate RSS for 1c7 Commits
+name: Generate RSS Feed
 
 on:
-  schedule:
-    - cron: '0 * * * *'  # 每小时运行一次
-  workflow_dispatch:     # 也允许手动触发
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write  # 👈 关键权限，允许 Actions 推送代码
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout code
+        uses: actions/checkout@v4
 
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: '3.x'
 
-      - name: Install Dependencies and Run Script
-        working-directory: ${{ github.workspace }}
+      - name: Install dependencies and run script
         run: |
           pip install feedgen requests
           python $GITHUB_WORKSPACE/generate_rss.py
